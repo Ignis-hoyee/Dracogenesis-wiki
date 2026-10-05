@@ -10,13 +10,13 @@
 ## Effect
 <!-- ## 效果 -->
 
-Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />, and get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> for each ~~building~~ nest you have on the mountain.
+Gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />, and gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> for each ~~building~~ nest you have on the mountain.
 <!-- 获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，你在山脉每有1个~~建筑~~巢穴，获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Sowing Effect
 <!-- ## 播种效果 -->
 
-Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 <!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Count

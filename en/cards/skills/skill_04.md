@@ -10,13 +10,13 @@
 ## Effect
 <!-- ## 效果 -->
 
-Get 2 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Gain 2 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 <!-- 获得 2<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Sowing Effect
 <!-- ## 播种效果 -->
 
-Get 1 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 <!-- 每年秋季获得 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Count

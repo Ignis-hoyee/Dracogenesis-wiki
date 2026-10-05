@@ -8,11 +8,11 @@
 
 ## Effect
 
-Get 2 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> .
+Gain 2 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> .
 
 ## Sowing Effect
 
-Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 
 ## Count
 

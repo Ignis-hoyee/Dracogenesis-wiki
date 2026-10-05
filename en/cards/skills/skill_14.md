@@ -19,7 +19,7 @@ Exchange 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style=
 ## Sowing Effect
 <!-- ## 播种效果 -->
 
-Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 <!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Count

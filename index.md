@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "飞龙秘境"
-  text: "非官方桌游规则 Wiki"
+  text: "非官方桌游 Wiki"
   tagline: 规则查询与效果调整
   image:
     src: /images/tokens/genesislord.png

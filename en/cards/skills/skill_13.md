@@ -10,7 +10,7 @@
 ## Effect
 <!-- ## 效果 -->
 
-Get 2 of the following 3 resources:
+Gain 2 of the following 3 resources:
 <!-- 3个资源选其中2获得： -->
   
 - 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
@@ -20,7 +20,7 @@ Get 2 of the following 3 resources:
 ## Sowing Effect
 <!-- ## 播种效果 -->
 
-Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 <!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Count

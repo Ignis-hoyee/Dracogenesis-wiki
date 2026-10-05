@@ -1,6 +1,6 @@
-# Monument Request
+# Monument Request List
 
-## Request (Standard)
+## Monument Request (Standard)
 
 | Request | 1st Target | 2nd Target | 3rd Target | illustration |
 | --- | --- | --- | --- | --- |

@@ -10,13 +10,13 @@
 ## Effect
 <!-- ## 效果 -->
 
-Perform 1 <img src="/images/tokens/learn-skill_01-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> and get <img src="/images/tokens/draw-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />.
+Perform 1 <img src="/images/tokens/learn-skill_01-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> and gain <img src="/images/tokens/draw-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />.
 <!-- 执行1次<img src="/images/tokens/learn-skill_01-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，获得<img src="/images/tokens/draw-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Sowing Effect
 <!-- ## 播种效果 -->
 
-Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+Gain 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 <!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
 ## Count

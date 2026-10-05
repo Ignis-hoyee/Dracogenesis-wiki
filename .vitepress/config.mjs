@@ -27,12 +27,13 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'zh-CN',
+      title: '飞龙秘境非官方维基',
       themeConfig: {
         nav: [
           { text: '摩点官页', link: 'https://zhongchou.modian.com/item/158999.html' },
           { text: '首页', link: '/' },
           { text: '角色', link: '/characters' },
-          { text: '规则',
+          { text: '规则(WIP)',
             items: [
               { text: '快速规则', link: '/rules/quickstart' },
               { text: '完整规则', link: '/rules/full/' },
@@ -166,7 +167,7 @@ export default defineConfig({
           { text: 'Modian Campaign', link: 'https://zhongchou.modian.com/item/158999.html' },
           { text: 'Home', link: '/en/' },
           { text: 'Characters', link: '/en/characters' },
-          { text: 'Rules',
+          { text: 'Rules(WIP)',
             items: [
               { text: 'Quickstart', link: '/en/rules/quickstart' },
               { text: 'Full Rules', link: '/en/rules/full/' },
