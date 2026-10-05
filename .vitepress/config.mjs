@@ -6,7 +6,7 @@ import { defineConfig } from 'vitepress'
 //       英文页面放在 en/ 目录下，通过 /en/ 路径访问。
 // ============================================================
 export default defineConfig({
-  base: "/Dracogenisis-wiki/",
+  base: "/Dracogenesis-wiki/",
   title: "Dracogenesis Unofficial Wiki",
   description: "非官方规则与卡牌数据库",
   head: [
