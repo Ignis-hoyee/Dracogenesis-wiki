@@ -20,6 +20,10 @@ hero:
     - theme: alt
       text: 梗&表情包
       link: /memes/index
+    - theme: alt
+      text: 角色
+      link: /characters/index
+
 
 features:
   - icon: 
