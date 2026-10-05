@@ -1,4 +1,5 @@
-# 展翅翱翔
+# Take Flight
+<!-- # 展翅翱翔 -->
 
 <div class='vp-infobox'>
 
@@ -6,25 +7,32 @@
 
 </div>
 
-## 效果
+## Effect
+<!-- ## 效果 -->
 
-你可以重新派遣1只站着的龙，并获得[狩猎奖励]
+You may re-dispatch 1 standing dragon, and get [hunting reward].
+<!-- 你可以重新派遣1只站着的龙，并获得[狩猎奖励] -->
 
-## 播种效果
+## Sowing Effect
+<!-- ## 播种效果 -->
 
-每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+<!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
-## 卡片数量
+## Count
+<!-- ## 卡片数量 -->
 
 2
 
-## 分值
+## Point
+<!-- ## 分值 -->
 
 2
 <!-- ![point](/images/tokens/point_01.png) -->
 
-## 小趣事
+## Funny Things
+<!-- ## 小趣事 -->
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限

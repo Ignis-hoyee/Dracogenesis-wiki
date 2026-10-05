@@ -1,4 +1,5 @@
-# 城堡
+# Castle
+<!-- # 城堡 -->
 
 <div class='vp-infobox'>
 
@@ -6,30 +7,41 @@
 
 </div>
 
-## 效果
+## Effect
+<!-- ## 效果 -->
 
-<img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" />将一个相邻的山脉地块<img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />改造成城堡地块。（其他玩家无法进入你的城堡地块）
+<img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" /> Transform 1 adjacent mountain tile <img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> into a castle tile. (Other players cannot enter your castle tile.)
+<!-- <img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" />将一个相邻的山脉地块<img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />改造成城堡地块。（其他玩家无法进入你的城堡地块） -->
 
-## 城堡地块
+## Castle Tile
+<!-- ## 城堡地块 -->
 
 ![CastleTile](/images/tiles/tile_wonder_03.png)
 
-- 改造后地块：山脉地块<img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
-- 狩猎奖励：<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /><img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
-- 特殊效果：其他玩家无法进入此地块。
+- Transformed tile: mountain tile <img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+<!-- - 改造后地块：山脉地块<img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
+- Hunting reward: <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /><img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+<!-- - 狩猎奖励：<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /><img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
+- Special effect: other players cannot enter this tile.
+<!-- - 特殊效果：其他玩家无法进入此地块。 -->
 
-## 分值
+## Point
+<!-- ## 分值 -->
 
 3
 
-## 效果调整
+## Effect Adjustment
+<!-- ## 效果调整 -->
 
-[智慧宫](wonder_07.md)没法复制这张牌，因为<img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" />里有“改造地块”效果。
+[House of Wisdom](wonder_07.md) cannot copy this card, because its <img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" /> effect includes a "transformed tile" effect.
+<!-- [智慧宫](wonder_07.md)没法复制这张牌，因为<img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" />里有“改造地块”效果。 -->
 
-## 小趣事
+## Funny Things
+<!-- ## 小趣事 -->
 
-- 曾经2<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />还是很有吸引力的，但因为[掠夺矿山](../skills/skill_06.md#掠夺矿山)的质量逐渐被发掘+山脉地块地块的资源调整后，城堡的战略性更倾向了卡格子移动。
+- 2 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> used to be quite attractive, but as the strength of [Looting Mine](../skills/skill_06.md#looting-mine) was gradually discovered, plus the resource adjustments to mountain tiles, the Castle's strategy has shifted more toward blocking tile movement.
+<!-- - 曾经2<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />还是很有吸引力的，但因为[掠夺矿山](../skills/skill_06.md#掠夺矿山)的质量逐渐被发掘+山脉地块地块的资源调整后，城堡的战略性更倾向了卡格子移动。 -->
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限

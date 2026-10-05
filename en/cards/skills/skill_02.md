@@ -1,4 +1,4 @@
-# 收获龙果树
+# Harvest Dragonfruit
 
 <div class='vp-infobox'>
 
@@ -6,27 +6,26 @@
 
 </div>
 
-## 效果
+## Effect
 
-获得 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> .
 
-## 播种效果
+## Sowing Effect
 
-每年秋季获得 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 
-## 卡片数量
+## Count
 
 2
 
-## 分值
+## Point
 
 ![point](/images/tokens/point_01.png)
 
-## 小趣事
+## Funny Things
 
-然而，实际上，火龙果不长在树上，而是长在某些仙人掌上……
-似乎因为名字可以读成【收 火龙果 树】所以导致了有木头可以收获。
+Dragonfruit is not bear fruits on tree. is bear on cactus.
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限

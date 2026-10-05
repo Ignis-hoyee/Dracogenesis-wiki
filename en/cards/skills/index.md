@@ -28,5 +28,5 @@
 | [Allocating](skill_13.md) | 2 | 1 | [<img src="/images/cards/skills/skill_13.jpg" width="180px" height="auto">](skill_13.md) |
 | [Trading](skill_14.md) | 2 | 1 | [<img src="/images/cards/skills/skill_14.jpg" width="180px" height="auto">](skill_14.md) |
 | [Logging Mobilization](skill_15.md) | 2 | 2 | [<img src="/images/cards/skills/skill_15.jpg" width="180px" height="auto">](skill_15.md) |
-| [Honning Skills](skill_16.md) | 2 | 1 | [<img src="/images/cards/skills/skill_16.jpg" width="180px" height="auto">](skill_16.md) |
+| [Honing Skills](skill_16.md) | 2 | 1 | [<img src="/images/cards/skills/skill_16.jpg" width="180px" height="auto">](skill_16.md) |
 | [Catch Them All](skill_17.md) | 2 | 1 | [<img src="/images/cards/skills/skill_17.jpg" width="180px" height="auto">](skill_17.md) |

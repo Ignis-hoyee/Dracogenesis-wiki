@@ -1,6 +1,6 @@
-# 纪念碑任务列表
+# Monument Request
 
-## 标准版列表
+## Request (Standard)
 
 | Request | 1st Target | 2nd Target | 3rd Target | illustration |
 | --- | --- | --- | --- | --- |
@@ -16,6 +16,4 @@
 | Forest Nest Count | Target: 3<br>Point: 8 | Target: 2<br>Point: 4 | Target: 2<br>Point: 2 | ![monument_09](/images/monument/monument_09.png) |
 | Wonders Count | Target: 5<br>Point: 8 | Target: 4<br>Point: 4 | Target: 3<br>Point: 2 | ![monument_10](/images/monument/monument_10.png) |
 
-## 野史
-
-传说中，纪念碑所发起的任务实际上是纪念碑上四个面的铭文，完成铭文的要求后会发出神秘的光芒，此时龙龙们输入他们的魔力后便可得到纪年龙的认可并登记做出的贡献，供后代瞻仰着他们的圣名。
+## Story

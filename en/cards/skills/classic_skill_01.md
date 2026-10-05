@@ -12,11 +12,11 @@ Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="disp
 
 ## Sowing Effect
 
-Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in Autumn.
+Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 
 ## Count
 
-4（Each Player）
+4 (Each Player)
 
 ## Funny Things
 
@@ -24,4 +24,4 @@ In our game Alpha test, This Card illustration is the placeholder. That made all
 
 ## Stuff
 
-illustrator：星语无限
+Illustrator：星语无限

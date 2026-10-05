@@ -2,7 +2,7 @@
 
 <div class='vp-infobox'>
 
-![HonningSkills](/images/cards/skills/skill_16.jpg)
+![HoningSkills](/images/cards/skills/skill_16.jpg)
 
 </div>
 

@@ -11,7 +11,7 @@
 - <img src="/images/tokens/quickplay-icon.png" width="11" height="16" style="display: inline-block; vertical-align: middle;" />获得1<img src="/images/tokens/gene-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 - 将一个相邻的山脉地块<img src="/images/tokens/mountain-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />改造成浴场地块。
 
-## 宝塔地块
+## 浴场地块
 
 ![BathhouseTile](/images/tiles/tile_wonder_01.png)
 

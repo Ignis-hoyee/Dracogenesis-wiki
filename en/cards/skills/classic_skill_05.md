@@ -1,4 +1,4 @@
-# 收集浆果丛
+# Harvesting
 
 <div class='vp-infobox'>
 
@@ -6,22 +6,20 @@
 
 </div>
 
-## 效果
+## Effect
 
-获得 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />.
 
-## 播种效果
+## Sowing Effect
 
-每年秋季获得 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
 
-## 卡片数量
+## Count
 
-1（每位玩家）
+1 (Each player)
 
-## 小趣事
-
-因为基础卡组里只有这张，没有反过来的【效果获得 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />，秋季播种获得 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />】，又因为播种会获得2卡效果，导致玩家经常被这张卡算错资源。
+## Funny Things
 
 ## Stuff
 
-绘制：星语无限
+Illustrator：星语无限

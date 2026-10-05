@@ -1,4 +1,5 @@
-# 兵马俑
+# Terracotta Army
+<!-- # 兵马俑 -->
 
 <div class='vp-infobox'>
 
@@ -6,20 +7,26 @@
 
 </div>
 
-## 效果
+## Effect
+<!-- ## 效果 -->
 
-每年春季的孵化阶段，你可以免费解锁1只龙。
+In the hatching phase of each Spring, you may unlock 1 dragon for free.
+<!-- 每年春季的孵化阶段，你可以免费解锁1只龙。 -->
 
-## 分值
+## Point
+<!-- ## 分值 -->
 
 6
 
-## 效果调整
+## Effect Adjustment
+<!-- ## 效果调整 -->
 
-- 孵化解锁奖励依旧可正常结算。
+- Hatching unlock rewards still resolve normally.
+<!-- - 孵化解锁奖励依旧可正常结算。 -->
 
-## 小趣事
+## Funny Things
+<!-- ## 小趣事 -->
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限

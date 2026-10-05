@@ -1,4 +1,5 @@
-# 按需分配
+# Allocating
+<!-- # 按需分配 -->
 
 <div class='vp-infobox'>
 
@@ -6,32 +7,41 @@
 
 </div>
 
-## 效果
+## Effect
+<!-- ## 效果 -->
 
-3个资源选其中2获得：
+Get 2 of the following 3 resources:
+<!-- 3个资源选其中2获得： -->
   
 - 1<img src="/images/tokens/food-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 - 1<img src="/images/tokens/wood-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 - 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
 
-## 播种效果
+## Sowing Effect
+<!-- ## 播种效果 -->
 
-每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+<!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
-## 卡片数量
+## Count
+<!-- ## 卡片数量 -->
 
 2
 
-## 分值
+## Point
+<!-- ## 分值 -->
 
 ![point](/images/tokens/point_01.png)
 
-## 小趣事
+## Funny Things
+<!-- ## 小趣事 -->
 
-## 效果调整
+## Effect Adjustment
+<!-- ## 效果调整 -->
 
-- 不能重复拿同一个类型的资源。
+- You cannot take the same type of resource more than once.
+<!-- - 不能重复拿同一个类型的资源。 -->
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限

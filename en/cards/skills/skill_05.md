@@ -1,4 +1,5 @@
-# 掠夺商队
+# Looting Caravan
+<!-- # 掠夺商队 -->
 
 <div class='vp-infobox'>
 
@@ -6,25 +7,33 @@
 
 </div>
 
-## 效果
+## Effect
+<!-- ## 效果 -->
 
-获得 2<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 2 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+<!-- 获得 2<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
-## 播种效果
+## Sowing Effect
+<!-- ## 播种效果 -->
 
-每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" />
+Get 1 <img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> in each Autumn.
+<!-- 每年秋季获得 1<img src="/images/tokens/gold-icon.png" width="16" height="16" style="display: inline-block; vertical-align: middle;" /> -->
 
-## 卡片数量
+## Count
+<!-- ## 卡片数量 -->
 
 2
 
-## 分值
+## Point
+<!-- ## 分值 -->
 
-2（待更新图片）
+2 (image to be updated)
+<!-- 2（待更新图片） -->
 <!-- ![point](/images/tokens/point_01.png) -->
 
-## 小趣事
+## Funny Things
+<!-- ## 小趣事 -->
 
 ## Stuff
 
-绘制：星语无限
+Illustrator: 星语无限
